@@ -24,8 +24,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kcpf&langs_count=8)
 
-Outside of [GitHub](https://github.com/Kcpf/), You can find me. Currently, I'm **free to contribute to Open Source or Private Companies**
-
 ![](https://komarev.com/ghpvc/?username=Kcpf&color=blue&label=Profile+Views)
 [![Twitter: feefranca22](https://img.shields.io/twitter/follow/feefranca22?style=social)](https://twitter.com/feefranca22)
 [![Linkedin: FernandoFranca](https://img.shields.io/badge/-FernandoFranca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandopmgfranca)](https://www.linkedin.com/in/fernandopmgfranca)
