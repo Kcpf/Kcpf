@@ -1,12 +1,12 @@
 # I am Fernando! [<img align="center" alt="Fernando Franca Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][fernando-linkedin]
 
-**Hey, Welcome aboard!** :rocket: <br> This is Fernando Franca, I am Computer Engineering Student at Insper. As a student, I won bronze and gold medals at the Brazilian Robotics Olympics in the years of 2018 and 2019, respectively. I have been studying programming and Computer Science since the end of 2017. In my journey, I learned a lot of topics, but the most import to me (and the ones that I liked more) were Machine Learning, Deep Learning, Artificial Intelligence and Blockchain. Besides that, I have learned about React Native (IOS & Android), Data Science and Web development (Reactjs, Nodejs and for database MongoDB). Recently I have been studying Amazon Web Services and Heroku.
-
+**Hey, Welcome aboard!** :rocket: <br> I am Computer Engineering Student at Insper. As a student, I won bronze and gold medals at the Brazilian Robotics Olympics in the years of 2018 and 2019, respectively. I have been studying programming and Computer Science since the end of 2017. In my journey, I learned a lot of topics, but the most import to me (and the ones that I liked more) were Machine Learning, Deep Learning, Artificial Intelligence and Blockchain. Besides that, I have learned about React Native (IOS & Android), Data Science and Web development (Reactjs, Nodejs and for database MongoDB). Recently I have been studying Amazon Web Services, Heroku and Solidity.
+<!--
 [<img align="center" alt="Insper" width="200px" src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png" />][insper-website]
 
 [<img align="center" alt="Insper Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][insper-linkedin]
 [<img align="center" alt="Insper Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insper-insta]
-
+-->
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
